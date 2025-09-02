@@ -11888,7 +11888,7 @@
     "plans": null,
     "description": "And abstract interpreter operating on Rust's mid-level intermediate language, and providing warnings based on taint analysis.",
     "discussion": null,
-    "deprecated": null,
+    "deprecated": true,
     "resources": null,
     "reviews": null,
     "demos": null,
@@ -17539,7 +17539,7 @@
     "plans": null,
     "description": "A syntax highlighter and a tool to semi-automate the rewriting of scripts to ShellCheck conformance, mainly focused on quoting.",
     "discussion": null,
-    "deprecated": null,
+    "deprecated": true,
     "resources": null,
     "reviews": null,
     "demos": null,
@@ -19212,7 +19212,7 @@
     "plans": null,
     "description": "Combination of multiple linters to install as a GitHub Action.",
     "discussion": null,
-    "deprecated": null,
+    "deprecated": true,
     "resources": [
       {
         "title": "The Easiest Way to Lint Your Code: GitHub Super Linter Deep Dive",
